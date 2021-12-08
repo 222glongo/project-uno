@@ -1,0 +1,67 @@
+/*index*/
+.index{
+  body,h1 {font-family: "Raleway", sans-serif}
+  body, html {height: 100%}
+}
+
+#Welcome{
+  color: white;
+}
+
+#name{
+  color: white;
+}
+
+#bridge {
+  background-image: url('img/bridge.jpg');
+  background-size: 100%;
+}
+
+/*about*/
+#about{
+  background-image: url('img/night.jpg');
+  background-size:100%;
+}
+
+.jumbotron{
+  background-image: url('img/nightstars.jpg');
+  color: white;
+}
+
+.nice{
+  color:white;
+}
+
+.boarder{
+    border: 20px solid #000000;
+    width:400px;
+    height:500px;
+}
+
+/*work*/
+#work{
+  background-image: url('img/walk.jpg');
+  background-size: cover;
+}
+
+.work{
+  color: #7bff00
+}
+
+/*Education*/
+#edu{
+  background-image: url('img/es.jpg');
+  background-size: cover;
+}
+
+.logo{
+    border: 20px solid #000000;
+    width:200px;
+    height:200px;
+}
+
+/*int*/
+#int{
+  background-image: url('img/zoom.jpg');
+  background-size: ;
+}
